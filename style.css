@@ -1,0 +1,96 @@
+.container{
+    max-width: 1000px;
+}
+
+header{
+    background-image: url('./img/cloudimg.jpg');
+    background-size: cover;
+    height: 550px;
+    position: relative;
+}
+
+#textcenter{
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+
+.parrafo{
+    font-size: medium;
+    font-weight: 500;
+}
+.btn{
+    background-color: #abca8b;
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 50px;
+}
+
+.btn-seemore{
+    background-color: #eeeeee;
+    border-radius: 50px;
+    color:black;
+    padding: 10px 10px;
+    
+
+}
+
+.title{
+    color:black;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
+
+#row-testimonials{
+    background-color:#ffff;
+}
+
+.row{
+    margin: 0;
+}
+
+#row-testimonials img{
+    border-radius: 50%;
+    margin-top: 50px;
+    max-width: 120px;
+}
+
+.text-h5{
+    font-size: medium;
+    padding-bottom: 40px;
+}
+
+#blog-featured{
+    background-color: #f2fbff;
+
+}
+
+.h1-title{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.h2-title{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+.blog-h5{
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.p-text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
